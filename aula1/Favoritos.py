@@ -22,6 +22,11 @@ favoritos = [["https://docs.google.com/spreadsheets/d/1cfn9wd1yfGIjMLSHcN8cNKQJr
              "https://sites.google.com/stone.com.br/stonetech/home?authuser=0",
              "https://github.com/PHPRio/CFP",]
              
-             
+             #exemplo
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+  if x <> "b":
+    continue
+  print(x)
              
              ]
