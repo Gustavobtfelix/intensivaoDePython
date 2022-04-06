@@ -1,5 +1,5 @@
 import unidecode 
-string = "orčpžsíáýd"
+string = "orčpžsíáýd!"
 print('\nOriginal String:', string) 
 outputString = unidecode.unidecode(string) 
 print('\nNew String:', outputString)
